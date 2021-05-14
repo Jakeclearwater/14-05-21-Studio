@@ -14,7 +14,8 @@ namespace _14_05_21_studio
 
 
 
-
+            Console.WriteLine("Enter your name please!");
+            name = Console.ReadLine();
 
 
 

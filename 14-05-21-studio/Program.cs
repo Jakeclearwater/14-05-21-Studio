@@ -7,7 +7,7 @@ namespace _14_05_21_studio
         static void Main(string[] args)
         {
 
-            string temp;
+            string temp, name;
             int age;
 
 
@@ -18,7 +18,8 @@ namespace _14_05_21_studio
 
 
 
-
+            Console.WriteLine($"your name is {name} and you are {age} years old");
+            Console.ReadLine();
 
 
 

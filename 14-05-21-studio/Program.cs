@@ -18,9 +18,19 @@ namespace _14_05_21_studio
             Console.WriteLine($"Your name is {name} and you are {age} years old");
             Console.ReadLine();
 
+            string answer;
+            do
+            {
+                Console.WriteLine("is jake the best");
+                answer = Console.ReadLine();
 
 
+                if (answer == "no")
+                {
+                    Console.WriteLine("Wrong");
+                }
 
+            } while(answer != "yes");
 
 
 

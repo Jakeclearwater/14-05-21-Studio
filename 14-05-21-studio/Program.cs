@@ -12,9 +12,26 @@ namespace _14_05_21_studio
             Console.ReadLine();
             Console.WriteLine("My name Jeff");
             Console.ReadLine();
-            Console.WriteLine("test 1");
-            Console.ReadLine();
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Console.WriteLine("to the lef to the left");
+            Console.WriteLine("to the right to the right");
 
 
         }

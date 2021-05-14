@@ -92,7 +92,7 @@ namespace _14_05_21_studio
             Console.WriteLine("How sus are you out of 10?");
             susmeter = Console.ReadLine();
 
-            Console.WriteLine($"Dayum shawtyyyyy ug to a sus score of {susmeter}/10 unluggy uce SHEEEEEEEESH");
+            Console.WriteLine($"Dayum shawtyyyyy u got a sus score of {susmeter}/10 unluggy uce SHEEEEEEEESH");
             Console.ReadLine();
 
 

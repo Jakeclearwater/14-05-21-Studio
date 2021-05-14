@@ -8,6 +8,8 @@ namespace _14_05_21_studio
         {
             Console.WriteLine("Jake");
             Console.ReadLine();
+            Console.WriteLine("Will");
+            Console.ReadLine();
         }
     }
 }

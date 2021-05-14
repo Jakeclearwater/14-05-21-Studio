@@ -34,58 +34,13 @@ namespace _14_05_21_studio
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             int codys, total, price = 2;
             Console.WriteLine("Please enter how many Cody's you would like");
             temp = Console.ReadLine();
             codys = Convert.ToInt32(temp);
             total = codys * price;
             Console.WriteLine("Your total comes to " + total + "");
-             
-
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   
 
             string susmeter;
 
@@ -94,21 +49,6 @@ namespace _14_05_21_studio
 
             Console.WriteLine($"Dayum shawtyyyyy ug to a sus score of {susmeter}/10 unluggy uce SHEEEEEEEESH");
             Console.ReadLine();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

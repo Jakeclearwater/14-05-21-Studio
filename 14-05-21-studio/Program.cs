@@ -6,7 +6,8 @@ namespace _14_05_21_studio
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Jake");
+            Console.ReadLine();
         }
     }
 }

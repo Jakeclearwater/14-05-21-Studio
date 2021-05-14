@@ -30,7 +30,7 @@ namespace _14_05_21_studio
                     Console.WriteLine("Wrong");
                 }
 
-            } while(answer != "yes");
+            } while (answer != "yes");
 
 
 
@@ -53,7 +53,7 @@ namespace _14_05_21_studio
             temp = Console.ReadLine();
             codys = Convert.ToInt32(temp);
             total = codys * price;
-            Console.WriteLine("Your total comes to " + total + "");
+            Console.WriteLine($"Your total comes to {total}");
              
 
             

@@ -6,22 +6,7 @@ namespace _14_05_21_studio
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Jake");
-            Console.ReadLine();
-            Console.WriteLine("Will");
-            Console.ReadLine();
-            Console.WriteLine("My name Jeff");
-            Console.ReadLine();
-
-
-
-            Console.WriteLine("test 2");
-
-            Console.WriteLine("ah");
-
-
-
-            Console.WriteLine("na");
+           
 
 
 
@@ -30,8 +15,26 @@ namespace _14_05_21_studio
 
 
 
-            Console.WriteLine("to the lef to the left");
-            Console.WriteLine("to the right to the right");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
         }

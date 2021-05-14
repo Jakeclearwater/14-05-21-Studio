@@ -34,81 +34,21 @@ namespace _14_05_21_studio
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             int codys, total, price = 2;
             Console.WriteLine("Please enter how many Cody's you would like");
             temp = Console.ReadLine();
             codys = Convert.ToInt32(temp);
             total = codys * price;
-            Console.WriteLine($"Your total comes to {total}");
+            Console.WriteLine("Your total comes to " + total + "");
              
-
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
             string susmeter;
 
             Console.WriteLine("How sus are you out of 10?");
             susmeter = Console.ReadLine();
 
-            Console.WriteLine($"Dayum shawtyyyyy ug to a sus score of {susmeter}/10 unluggy uce SHEEEEEEEESH");
+            Console.WriteLine($"Dayum shawtyyyyy u got a sus score of {susmeter}/10 unluggy uce SHEEEEEEEESH");
             Console.ReadLine();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

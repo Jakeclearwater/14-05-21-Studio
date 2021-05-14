@@ -38,6 +38,17 @@ namespace _14_05_21_studio
 
 
 
+            int codys, total, price = 2;
+            Console.WriteLine("Please enter how many Cody's you would like");
+            temp = Console.ReadLine();
+            codys = Convert.ToInt32(temp);
+            total = codys * price;
+            Console.WriteLine("Your total comes to " + total + "");
+             
+
+            
+
+
 
 
 

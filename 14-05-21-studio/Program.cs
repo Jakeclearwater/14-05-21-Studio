@@ -10,7 +10,9 @@ namespace _14_05_21_studio
             string temp;
             int age;
 
-
+            Console.WriteLine("Hi there please enter your age");
+            temp = Console.ReadLine();
+            age = Convert.ToInt32(temp);
 
 
 

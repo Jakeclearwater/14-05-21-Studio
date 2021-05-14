@@ -11,6 +11,10 @@ namespace _14_05_21_studio
             int age;
 
 
+
+            Console.WriteLine("Whats ya name cuh");
+            name = Console.ReadLine();
+
         }
     }
 }

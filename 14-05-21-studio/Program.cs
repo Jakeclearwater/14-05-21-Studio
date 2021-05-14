@@ -10,6 +10,8 @@ namespace _14_05_21_studio
             Console.ReadLine();
             Console.WriteLine("Will");
             Console.ReadLine();
+            Console.WriteLine("My name Jeff");
+            Console.ReadLine();
         }
     }
 }
